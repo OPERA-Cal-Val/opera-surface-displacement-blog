@@ -1,6 +1,6 @@
 # opera-surface-displacement-blog
 
-This is the repository for publishing the informal dist-s1 blog.
+This is the repository for publishing the informal DISP-S1 blog.
 
 - Main blog: https://opera-cal-val.github.io/opera-surface-displacement-blog/
 - Test blog: https://opera-cal-val.github.io/opera-surface-displacement-blog/test/

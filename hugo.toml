@@ -44,3 +44,6 @@ dateFormat = "2006-01-02"
 #   # version of Hugo Bear Blog), while the latter has a more modern look based on
 #   # Herman Martinus's version of the Blogster Minimal theme for Astro.
 themeStyle = "original"
+
+[markup.goldmark.renderer]
+unsafe = true
