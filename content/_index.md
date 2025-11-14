@@ -10,6 +10,8 @@ This is a way to informally discuss the OPERA DISP-S1 product and provide intera
   <img src="DISP-S1-Overview_Example.png" width="600"/>
 </p>
 
+The above image shows OPERA Surface Displacement from Sentinel-1 products covering North America* with a few examples from sites in California. 
+
 Relevant Links:
 
 - [The OPERA Surface Displacement Suite](https://www.jpl.nasa.gov/go/opera/products/disp-product-suite/)
